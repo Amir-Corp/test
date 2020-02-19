@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "-------- test test",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amir-Corp/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amir-Corp/test/issues"
+  },
+  "homepage": "https://github.com/Amir-Corp/test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "koa": "^2.11.0"
+  }
+}
